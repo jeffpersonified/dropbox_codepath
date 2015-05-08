@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DF99F2B1-6FDC-4977-88FE-26B15367C50F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Dropbox</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>79AB0FAC106050125C80D545FE7E6945A1E17816</key>
+		<string>github.com:jeffpersonified/dropbox_codepath.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Dropbox.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>79AB0FAC106050125C80D545FE7E6945A1E17816</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:jeffpersonified/dropbox_codepath.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>79AB0FAC106050125C80D545FE7E6945A1E17816</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>79AB0FAC106050125C80D545FE7E6945A1E17816</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Dropbox</string>
+		</dict>
+	</array>
+</dict>
+</plist>

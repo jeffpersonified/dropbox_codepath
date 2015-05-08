@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1F82BDC01AFC3F4E00E18A88 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F82BDBF1AFC3F4E00E18A88 /* SettingsViewController.swift */; };
+		1F82BDC21AFC41A900E18A88 /* TermsOfServiceViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F82BDC11AFC41A900E18A88 /* TermsOfServiceViewController.swift */; };
+		1F82BDC41AFC47C900E18A88 /* ForgotPasswordViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F82BDC31AFC47C900E18A88 /* ForgotPasswordViewController.swift */; };
 		1FF061BF1AF8983D00345736 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FF061BE1AF8983D00345736 /* AppDelegate.swift */; };
 		1FF061C11AF8983D00345736 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FF061C01AF8983D00345736 /* ViewController.swift */; };
 		1FF061C41AF8983D00345736 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1FF061C21AF8983D00345736 /* Main.storyboard */; };
@@ -30,6 +33,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1F82BDBF1AFC3F4E00E18A88 /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
+		1F82BDC11AFC41A900E18A88 /* TermsOfServiceViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TermsOfServiceViewController.swift; sourceTree = "<group>"; };
+		1F82BDC31AFC47C900E18A88 /* ForgotPasswordViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ForgotPasswordViewController.swift; sourceTree = "<group>"; };
 		1FF061B91AF8983D00345736 /* Dropbox.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Dropbox.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1FF061BD1AF8983D00345736 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1FF061BE1AF8983D00345736 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -85,9 +91,12 @@
 		1FF061BB1AF8983D00345736 /* Dropbox */ = {
 			isa = PBXGroup;
 			children = (
+				1F82BDBF1AFC3F4E00E18A88 /* SettingsViewController.swift */,
 				1FF061BE1AF8983D00345736 /* AppDelegate.swift */,
 				1FF061C01AF8983D00345736 /* ViewController.swift */,
 				1FF061C21AF8983D00345736 /* Main.storyboard */,
+				1F82BDC31AFC47C900E18A88 /* ForgotPasswordViewController.swift */,
+				1F82BDC11AFC41A900E18A88 /* TermsOfServiceViewController.swift */,
 				1FF061E81AF99D7C00345736 /* CreateAccountViewController.swift */,
 				1FF061DE1AF9933900345736 /* CreateAccountRootViewController.swift */,
 				1FF061E01AF996FA00345736 /* SignInRootViewController.swift */,
@@ -225,8 +234,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				1FF061E91AF99D7C00345736 /* CreateAccountViewController.swift in Sources */,
+				1F82BDC21AFC41A900E18A88 /* TermsOfServiceViewController.swift in Sources */,
 				1FF061E11AF996FA00345736 /* SignInRootViewController.swift in Sources */,
+				1F82BDC01AFC3F4E00E18A88 /* SettingsViewController.swift in Sources */,
 				1FF061EB1AF9A2C400345736 /* SignInViewController.swift in Sources */,
+				1F82BDC41AFC47C900E18A88 /* ForgotPasswordViewController.swift in Sources */,
 				1FF061DF1AF9933900345736 /* CreateAccountRootViewController.swift in Sources */,
 				1FF061C11AF8983D00345736 /* ViewController.swift in Sources */,
 				1FF061BF1AF8983D00345736 /* AppDelegate.swift in Sources */,
@@ -425,6 +437,7 @@
 				1FF061DA1AF8983D00345736 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1FF061DB1AF8983D00345736 /* Build configuration list for PBXNativeTarget "DropboxTests" */ = {
 			isa = XCConfigurationList;
@@ -433,6 +446,7 @@
 				1FF061DD1AF8983D00345736 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
