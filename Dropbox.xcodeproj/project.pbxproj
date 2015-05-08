@@ -10,6 +10,7 @@
 		1F82BDC01AFC3F4E00E18A88 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F82BDBF1AFC3F4E00E18A88 /* SettingsViewController.swift */; };
 		1F82BDC21AFC41A900E18A88 /* TermsOfServiceViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F82BDC11AFC41A900E18A88 /* TermsOfServiceViewController.swift */; };
 		1F82BDC41AFC47C900E18A88 /* ForgotPasswordViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F82BDC31AFC47C900E18A88 /* ForgotPasswordViewController.swift */; };
+		1F82BDC61AFC4BF400E18A88 /* ExistingPhotosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F82BDC51AFC4BF400E18A88 /* ExistingPhotosViewController.swift */; };
 		1FF061BF1AF8983D00345736 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FF061BE1AF8983D00345736 /* AppDelegate.swift */; };
 		1FF061C11AF8983D00345736 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FF061C01AF8983D00345736 /* ViewController.swift */; };
 		1FF061C41AF8983D00345736 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1FF061C21AF8983D00345736 /* Main.storyboard */; };
@@ -36,6 +37,7 @@
 		1F82BDBF1AFC3F4E00E18A88 /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 		1F82BDC11AFC41A900E18A88 /* TermsOfServiceViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TermsOfServiceViewController.swift; sourceTree = "<group>"; };
 		1F82BDC31AFC47C900E18A88 /* ForgotPasswordViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ForgotPasswordViewController.swift; sourceTree = "<group>"; };
+		1F82BDC51AFC4BF400E18A88 /* ExistingPhotosViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ExistingPhotosViewController.swift; sourceTree = "<group>"; };
 		1FF061B91AF8983D00345736 /* Dropbox.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Dropbox.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1FF061BD1AF8983D00345736 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1FF061BE1AF8983D00345736 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -95,6 +97,7 @@
 				1FF061BE1AF8983D00345736 /* AppDelegate.swift */,
 				1FF061C01AF8983D00345736 /* ViewController.swift */,
 				1FF061C21AF8983D00345736 /* Main.storyboard */,
+				1F82BDC51AFC4BF400E18A88 /* ExistingPhotosViewController.swift */,
 				1F82BDC31AFC47C900E18A88 /* ForgotPasswordViewController.swift */,
 				1F82BDC11AFC41A900E18A88 /* TermsOfServiceViewController.swift */,
 				1FF061E81AF99D7C00345736 /* CreateAccountViewController.swift */,
@@ -239,6 +242,7 @@
 				1F82BDC01AFC3F4E00E18A88 /* SettingsViewController.swift in Sources */,
 				1FF061EB1AF9A2C400345736 /* SignInViewController.swift in Sources */,
 				1F82BDC41AFC47C900E18A88 /* ForgotPasswordViewController.swift in Sources */,
+				1F82BDC61AFC4BF400E18A88 /* ExistingPhotosViewController.swift in Sources */,
 				1FF061DF1AF9933900345736 /* CreateAccountRootViewController.swift in Sources */,
 				1FF061C11AF8983D00345736 /* ViewController.swift in Sources */,
 				1FF061BF1AF8983D00345736 /* AppDelegate.swift in Sources */,
